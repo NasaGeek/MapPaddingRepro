@@ -1,7 +1,7 @@
 Reproduction of Android Google Maps centering issue
 ------------------
 
-I'll add a link to the issue once I've created it.
+https://issuetracker.google.com/issues/166482938
 
 
 Building and launching the project without modification should show the error
